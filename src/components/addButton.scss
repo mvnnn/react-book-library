@@ -1,0 +1,14 @@
+.add-button-component {
+  position: fixed;
+  margin-top: 88vh;
+  margin-left: 85vw;
+  z-index: 100;
+  button {
+    height: 50px;
+    width: 50px;
+    border-radius: 25px;
+    color: #fff;
+    background-color: #5cb85c;
+    border-color: #4cae4c;
+  }
+}
